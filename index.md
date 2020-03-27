@@ -154,7 +154,7 @@ Here, Knex is set to use the environment variable `NODE_ENV` (which defaults to 
 
 
 
-
+Passport.js is an *authentication* library and sessions are a part of *authorization*
 
 npm install --save body-parser cookie-session express passport passport-local
 
